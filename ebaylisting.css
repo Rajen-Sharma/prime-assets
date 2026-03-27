@@ -1,4 +1,5 @@
-  /* ShopFrenzy eBay Listing Stylesheet */                                                                                                                                                                   *{box-sizing:border-box;margin:0;padding:0}
+  /* ShopFrenzy eBay Listing Stylesheet */                                                                                                                                                                 
+  *{box-sizing:border-box;margin:0;padding:0}
   body{font-family:'Helvetica Neue',Arial,sans-serif;background:#f4f6f9;color:#1a1a2e}                                                                                                                     
   /* ── Navigation Bar ─────────────────────────────── */
   .nav-bar{background:#0d1b3e;border-bottom:1px solid rgba(255,215,0,0.2);display:flex;align-items:stretch;position:relative}
